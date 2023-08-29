@@ -6,4 +6,5 @@ def main(a):
     Returns:
         bool: answer
     """
-    return
+    return 10<=a<=99 or -99<=a<=-10
+print(main(-12))
